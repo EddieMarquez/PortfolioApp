@@ -1,0 +1,292 @@
+body{ 
+   /* width: 100%;*/
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; 
+    min-height:100%; 
+    padding:0px; 
+    background-image:url('../images/14916946.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:center center; 
+    background-color: #000; 
+}
+
+header{
+    background-color: #6CCEEC;
+    color: #fff;
+    width: 100%;
+    height: 80px;
+    padding: 10px;
+    margin-bottom:-45px; 
+    margin-top: -10px;
+    margin-left: -10px;
+    font-family: LobsterTwo;
+    z-index: 10;
+    box-shadow: 5px -5px 35px #000;
+    position: fixed;
+}
+header img{
+
+    margin: 0 15px 0 auto;
+    float: right;
+    z-index: 10;
+    width: 130px
+
+   
+}
+ h1{
+        text-align: center;
+        font-size: 48px;
+        font-family: LobsterTwo;
+        margin-top: auto;
+        margin-right: 20px;
+        height: 60px;
+    }
+h2{
+        text-align: center;
+        font-size: 20px;
+        font-family: sans-serif;
+        margin: 0 auto 10px;
+        width: 100px;
+
+    }
+#container {
+    width: 50%;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 10px;
+}
+
+ #largeLogo{
+    width: 80%;
+    margin-left: 50px;
+    margin-right: auto;
+ }
+ #web-gallery{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    
+ }
+  #web-gallery img{
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 25px;
+ }
+  #web-gallery a{
+    text-decoration: none;
+    color: #000;
+ }
+
+ #web-gallery a:hover{
+    text-decoration: none;
+    color: #6CCEEC;
+ }
+ 
+@media screen and (max-width: 900px){
+    header {
+        font-size: 56px;
+        height: 80px;
+        position: fixed;
+        
+    }
+    
+    div {
+        margin-top: -5px;
+        padding-bottom: 25px;
+        margin-right: 80px;
+    }
+    h1{
+        text-align: center;
+        font-size: 38px;
+        margin: 0 auto;
+    }
+    #largeLogo{
+    width: 100%;
+    margin: 0 auto;
+ }
+ #container {
+    width: 70%;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 10px;
+}
+ #web-gallery{
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    
+ }
+  #web-gallery img{
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 25px;
+ }
+   
+
+
+}
+@media screen and (max-width: 600px){
+    #container {
+    width: 75%;
+    margin: 100px auto;
+    background-color: #fff;
+    padding: 10px;
+}
+    header {
+        font-size: 32px;
+        height: 60px;
+        width: 110%;
+        
+    }
+    header img{
+
+    margin: 0 65px 0 auto;
+    float: right;
+    z-index: 10;
+    width: 100px  
+	}
+    div {
+        margin-top: 0px;
+        margin-right: 100px;
+        padding-bottom: 0px;
+    }
+
+     h1{
+    
+        font-size: 30px;
+        margin: 0 auto;
+        text-align: center
+        ;
+
+    }
+    p{
+        text-align: justify;
+        font-size: 14px;
+        margin: 0 auto;
+        width: 80%
+        ;
+
+    }
+    #web-gallery{
+    width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    
+ }
+    
+#web-gallery img{
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 25px;
+ }
+
+}
+
+
+
+.panel {
+    position: fixed;
+    left: -10.625em; /*or width of your navigation panel*/
+    width: 10.625em; /*should match the above value*/
+    z-index: 420;
+    background: #101820;
+}
+
+/*  
+    Demo Specific Styles
+    ====================
+*/
+
+
+
+.wrap {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    z-index: 420;
+}
+
+  
+}
+
+.panel a {
+    color: #fff;
+}
+
+.menu {
+    width: 20px;
+    height: 20px;
+    z-index: 420;
+    position: fixed;
+}
+
+
+
+
+ul {
+   
+    width: 90px;
+    height: 100%;
+    margin-left: 0px;
+    
+
+     
+ 
+    z-index: 3; 
+}
+
+li img{
+    height: 92px;
+    width: 92px;
+}
+
+@media screen and (max-width: 900px){
+    nav#menu.panel li img {
+        width: 80px;
+        height: 80px;
+        margin: auto;
+    }
+}
+@media screen and (max-width: 600px){
+    nav#menu.panel li img {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+
+/*The Button*/
+a.menu-link{
+    font-size: 58px;
+    position: fixed;
+    margin-top: -20px;
+    color: black;
+    text-decoration: none;
+}  
+
+@media screen and (max-width: 900px){
+
+    a.menu-link{
+        z-index: 100;
+        font-size: 48px;
+        text-decoration: none;
+        margin-top: -15px;
+
+
+}
+
+@media screen and (max-width: 600px){
+
+    a.menu-link{
+        z-index: 100;
+        font-size: 32px;
+        text-decoration: none;
+        margin-top: -10px;
+
+
+}
+
