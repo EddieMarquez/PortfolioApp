@@ -14,10 +14,6 @@
     <body>
 
 
-    <header>
-     <img src="images/Ghost_Graffics.png">
-
-    </header>
     <?php include 'nav.php'; ?>
         
     <div class="wrap push">
@@ -30,20 +26,20 @@
         <table style="width:100%">
           <tr>
             <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td> 
+            <td><a href="http://www.sandcastleinnanaheim.com/"><h2>Super 8</h2><img src="images/porfolio/websites/super_8.png"></a></td> 
            
           </tr>
           <tr>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td> 
+            <td><a href="http://www.hotelcrestview.com/"><h2>Crestview Hotel</h2><img src="images/porfolio/websites/CrestView.png"></a></td>
+            <td><a href="http://www.duderancherlodge.com/"><h2>Dude Rancher Lodge</h2><img src="images/porfolio/websites/dude_rancher.png"></a></td> 
           </tr>
           <tr>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td> 
+            <td><a href="http://www.tropicanainn-anaheim.com/"><h2>Tropicana Inn</h2><img src="images/porfolio/websites/tropicana.png"></a></td>
+            <td><a href="http://www.camelotinn-anaheim.com/"><h2>Camleot Inn</h2><img src="images/porfolio/websites/camleot.png"></a></td> 
           </tr>
           <tr>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td> 
+            <td><a href="http://www.beverlygarland.com/"><h2>Beverly Garland</h2><img src="images/porfolio/websites/beverly_garland.png"></a></td>
+            <td><a href="http://www.hollywoodhotel.net/"><h2>Hollywood Hotel</h2><img src="images/porfolio/websites/hollywood_hotel.png"></a></td> 
           </tr>
         </table>
         </div>

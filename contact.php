@@ -14,10 +14,6 @@
     <body>
 
 
-    <header>
-     <img src="images/Ghost_Graffics.png">
-
-    </header>
     <?php include 'nav.php'; ?>
         
     <div class="wrap push">

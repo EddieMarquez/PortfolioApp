@@ -14,10 +14,6 @@
     <body>
 
 
-    <header>
-     <img src="images/Ghost_Graffics.png">
-
-    </header>
     <?php include 'nav.php'; ?>
         
     <div class="wrap push">
@@ -29,21 +25,21 @@
         <div id="web-gallery">
         <table style="width:100%">
           <tr>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td> 
+            <td><a href="http://www.kingsinnsandiego.com/"><h2>Envy Motorsports</h2><img src="images/porfolio/graffic-designs/EnvyMotorsports.png"></a></td>
+            <td><a href="http://www.kingsinnsandiego.com/"><h2>Air Marshal Team Logo</h2><img src="images/porfolio/graffic-designs/Badge.png"></a></td> 
            
           </tr>
           <tr>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td> 
+            <td><a href="http://www.kingsinnsandiego.com/"><h2>Norwalk Soccer League</h2><img src="images/porfolio/graffic-designs/Soccer_League.png"></a></td>
+            <td><a href="http://www.kingsinnsandiego.com/"><h2>Soccer Team Logo</h2><img src="images/porfolio/graffic-designs/Knight.png"></a></td> 
           </tr>
           <tr>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td> 
+            <td><a href="http://www.kingsinnsandiego.com/"><h2>Custom Lettering</h2><img src="images/porfolio/graffic-designs/TodoLowBueno.png"></a></td>
+            <td><a href="http://www.kingsinnsandiego.com/"><h2>Toy Story Artwork</h2><img src="images/porfolio/graffic-designs/toy_story.jpg"></a></td> 
           </tr>
           <tr>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td>
-            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/websites/kings.png"></a></td> 
+            <td><a href="http://www.kingsinnsandiego.com/"><h2>Vector Portrait</h2><img src="images/porfolio/graffic-designs/vector_portrait.jpg"></a></td>
+            <td><a href="http://www.kingsinnsandiego.com/"><h2>Kings Inn</h2><img src="images/porfolio/graffic-designs/kings.png"></a></td> 
           </tr>
         </table>
         </div>
