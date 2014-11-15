@@ -14,18 +14,18 @@
     <body>
 
 
-    <header>
-     <img src="images/Ghost_Graffics.png">
+    <!-- <header>
+     <a href="index.php"><img src="images/Ghost_Graffics.png"></a>
 
-    </header>
+    </header> -->
     <?php include 'nav.php'; ?>
         
     <div class="wrap push">
         <a href="#menu" class="menu-link">&#9776;</a>
     </div>
-
+        <div id="masthead"><img id="largeLogo" src="images/logo_large.png"></div>
     <div id="container";>
-        <img id="largeLogo" src="images/logo_large.png">
+        
         <h1>Hi, My Name Is Eddie.</h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
